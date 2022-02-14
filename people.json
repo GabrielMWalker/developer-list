@@ -5,42 +5,77 @@
       "dc": "Pelotas/RS",
       "istudio": "Adobe Experience Manager",
       "age": 25,
-      "position": "Dev Jr Trainee"
+      "position": "AEM React Developer"
     },
     {
       "name": "Gabriel Marholt Walker",
       "dc": "Ijuí/RS",
       "istudio": "Adobe Experience Manager",
       "age": 21,
-      "position": "Dev Jr Trainee"
+      "position": "AEM React Developer"
     },
     {
       "name": "Cassiano Schwanck Simas",
       "dc": "Pelotas/RS",
       "istudio": "Adobe Experience Manager",
-      "age": 25,
-      "position": "Dev Jr Trainee"
+      "age": 28,
+      "position": "AEM React Developer"
     },
     {
       "name": "Alberto Neuenfeld Helbig",
       "dc": "Pelotas/RS",
       "istudio": "Adobe Experience Manager",
       "age": 25,
-      "position": "Dev Jr Trainee"
+      "position": "AEM React Developer"
     },
     {
       "name": "Matheus Felipe da Rosa Durao",
       "dc": "Ijuí/RS",
       "istudio": "Adobe Experience Manager",
       "age": 21,
-      "position": "Dev Jr Trainee"
+      "position": "AEM React Developer"
     },
     {
       "name": "Thauany Correa Martins",
       "dc": "Passo Fundo/RS",
       "istudio": "Adobe Experience Manager",
-      "age": 21,
+      "age": "?",
       "position": "Scrum Master"
+    },
+    {
+      "name": "Eduardo Souza Borges",
+      "dc": "Pelotas/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": "?",
+      "position": "AEM Vue Developer"
+    },
+    {
+      "name": "Luan Daros",
+      "dc": "/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": "?",
+      "position": "AEM Vue Developer"
+    },
+    {
+      "name": "Gionni Lucio Gomes",
+      "dc": "/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": "?",
+      "position": "AEM Java Developer"
+    },
+    {
+      "name": "Renan Gomes Acosta",
+      "dc": "Rio Grande/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 38,
+      "position": "AEM Java Developer"
+    },
+    {
+      "name": "Lidinei Domeneghini",
+      "dc": "Passo Fundo/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": "?",
+      "position": "iStudio Head"
     }
   ]
 }
