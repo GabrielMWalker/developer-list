@@ -1,0 +1,46 @@
+{
+  "developers": [
+    {
+      "name": "João Pedro Ortiz",
+      "dc": "Pelotas/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 25,
+      "position": "Dev Jr Trainee"
+    },
+    {
+      "name": "Gabriel Marholt Walker",
+      "dc": "Ijuí/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 21,
+      "position": "Dev Jr Trainee"
+    },
+    {
+      "name": "Cassiano Schwanck Simas",
+      "dc": "Pelotas/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 25,
+      "position": "Dev Jr Trainee"
+    },
+    {
+      "name": "Alberto Neuenfeld Helbig",
+      "dc": "Pelotas/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 25,
+      "position": "Dev Jr Trainee"
+    },
+    {
+      "name": "Matheus Felipe da Rosa Durao",
+      "dc": "Ijuí/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 21,
+      "position": "Dev Jr Trainee"
+    },
+    {
+      "name": "Thauant Correa Martins",
+      "dc": "Passo Fundo/RS",
+      "istudio": "Adobe Experience Manager",
+      "age": 21,
+      "position": "Scrum Master"
+    }
+  ]
+}
