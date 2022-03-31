@@ -40,6 +40,6 @@ Senha: `12345678`
 Latitude: `-28.9712132207349`
 Longitude: `-52.00882991155071`
 
-###Observação
-Esses itens devem ser alterados pelos seus dados acima
+#Observação
+Os itens da opção `Seu Login` devem ser alterados pelos seus dados acima
     
