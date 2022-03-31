@@ -1,81 +1,34 @@
 {
-  "developers": [
+  "logins": [
     {
-      "name": "João Pedro Ortiz",
-      "dc": "Pelotas/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": 25,
-      "position": "AEM React Developer"
+      "login": "alberto.helbig",
+      "password": 346792129,
+      "local": "-31.396646856036423, -52.67586252253379"
     },
     {
-      "name": "Gabriel Marholt Walker",
-      "dc": "Ijuí/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": 21,
-      "position": "AEM React Developer"
+      "login": "joao.ortiz",
+      "password": 123456,
+      "local": "-29.97395879520916, -51.19468071876937"
     },
     {
-      "name": "Cassiano Schwanck Simas",
-      "dc": "Pelotas/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": 28,
-      "position": "AEM React Developer"
+      "login": "gabriel.walker",
+      "password": 132456978,
+      "local": "-28.389073786572382, -53.91502496130901"
     },
     {
-      "name": "Alberto Neuenfeld Helbig",
-      "dc": "Pelotas/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": 25,
-      "position": "AEM React Developer"
+      "login": "silvio.santos",
+      "password": 123456789,
+      "local": "21.093940079403772, -86.76712837712272"
     },
     {
-      "name": "Matheus Felipe da Rosa Durao",
-      "dc": "Ijuí/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": 21,
-      "position": "AEM React Developer"
+      "login": "thauany.martins",
+      "password": 12041999,
+      "local": "-28.264978335353234, -52.412004631674485"
     },
     {
-      "name": "Thauany Correa Martins",
-      "dc": "Passo Fundo/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": "?",
-      "position": "Scrum Master"
-    },
-    {
-      "name": "Eduardo Souza Borges",
-      "dc": "Pelotas/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": "?",
-      "position": "AEM Vue Developer"
-    },
-    {
-      "name": "Luan Daros",
-      "dc": "/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": "?",
-      "position": "AEM Vue Developer"
-    },
-    {
-      "name": "Gionni Lucio Gomes",
-      "dc": "/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": "?",
-      "position": "AEM Java Developer"
-    },
-    {
-      "name": "Renan Gomes Acosta",
-      "dc": "Rio Grande/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": 38,
-      "position": "AEM Java Developer"
-    },
-    {
-      "name": "Lidinei Domeneghini",
-      "dc": "Passo Fundo/RS",
-      "istudio": "Adobe Experience Manager",
-      "age": "?",
-      "position": "iStudio Head"
+      "login": "seu.nome",
+      "password": 12345678,
+      "local": "-28.9712132207349, -52.00882991155071"
     }
   ]
 }
